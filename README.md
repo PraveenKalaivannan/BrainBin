@@ -1,13 +1,13 @@
 # BrainBin
 **BrainBin** is a simple ReactJS Project which demonstrates the following
 
-1.Creating a Component in React
+1. Creating a Component in React
 
-2.Communicating between parent and child component
+2. Communicating between parent and child component
 
-3.Using *Bootstrap* with React
+3. Using *Bootstrap* with React
 
-4.Using basic *Routing* with React
+4. Using basic *Routing* with React
 
 
 ## Prerequisites
